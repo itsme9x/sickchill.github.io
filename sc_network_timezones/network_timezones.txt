@@ -843,6 +843,11 @@ NHNZ:Pacific/Auckland
 NOS:Europe/Amsterdam
 NOVE:Europe/Rome
 NPO 1:Europe/Amsterdam
+NPO 2:Europe/Amsterdam
+NPO 3:Europe/Amsterdam
+Nederlandse Publieke Omroep 1:Europe/Amsterdam
+Nederlandse Publieke Omroep 2:Europe/Amsterdam
+Nederlandse Publieke Omroep 3:Europe/Amsterdam
 NRJ 12:Europe/Paris
 NRK Super:Europe/Oslo
 NRK1:Europe/Oslo
